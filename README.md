@@ -3,7 +3,7 @@
 [LINKEDIN](https://www.linkedin.com/in/vijaya-simha-bheemi-reddy/)
 [GMAIL](vijaysrc3@gmail.com)
 
-- I am a Computer Science Engineer who is much into Development.
+- I am a Computer Science Engineer who is much into Software Development.
 - I’m interested in taking new challenges. 
 - I’m pursuing my Masters in Computer Science at University of Colorado. 
 - I’m currently looking for internships for this Summer'22.
