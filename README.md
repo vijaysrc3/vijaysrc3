@@ -1,7 +1,7 @@
 ### Hi everyone, this is Vijay!
 
-[linkedin](https://www.linkedin.com/in/vijaya-simha-bheemi-reddy/)
-[![Gmail](vijaysrc3@gmail.com)](https://mail.google.com/mail)
+[LINKEDIN](https://www.linkedin.com/in/vijaya-simha-bheemi-reddy/)
+[GMAIL](vijaysrc3@gmail.com)
 
 - I am a Computer Science Engineer who is much into Development.
 - I’m interested in taking new challenges. 
