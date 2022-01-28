@@ -10,11 +10,10 @@
 
 
 ### 🛠  Tech Stack
-Python 
- HTML5 
- CSS 
- Jupyternotebook 
- Git
+
+Front End : HTML5 CSS Reactjs JavaScript
+
+Back End : Python Java
 
 
 
