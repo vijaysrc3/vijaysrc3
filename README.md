@@ -6,7 +6,7 @@
 - I am a Computer Science Engineer who is much into Software Development.
 - I’m interested in taking new challenges. 
 - I’m pursuing my Masters in Computer Science at University of Colorado. 
-- I’m currently looking for internships for this Summer'22.
+- I’m currently looking for internships for this Fall'22.
 
 
 ### 🛠  Tech Stack
