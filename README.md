@@ -1,21 +1,15 @@
 ### Hi everyone, this is Vijay!
 
-[LINKEDIN](https://www.linkedin.com/in/vijaya-simha-bheemi-reddy/)
+[LINKEDIN](https://www.linkedin.com/in/vijaysrc3/)
 [GMAIL](vijaysrc3@gmail.com)
 
-- I am a Computer Science Engineer who is much into Software Development.
-- I’m interested in taking new challenges. 
-- I’m pursuing my Masters in Computer Science at University of Colorado. 
-- I’m currently looking for internships for this Fall'22.
-
+- Currently, I am working as a Software Developer at Deloitte for the TXHHS Project
+- Parallely learning Prompt Engineering to keep up with the development of AI Models in the current world.
 
 ### 🛠  Tech Stack
 
-Front End : HTML5 CSS Reactjs JavaScript
-
-Back End : Python Java
-
-
+- Java Developer
+- Prompt Egineer
 
 
 <!---
